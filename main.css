@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2&family=Fredoka+One&display=swap");
+/* * {
+    border: 1px solid mediumvioletred;
+} */
+img {
+    width: 100px;
+}
+body {
+    background-color: snow;
+    color: slategrey;
+    margin: 20px 0;
+    font-family: 'baloo 2', cursive;
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+h2 {
+    font-size: 1em;
+}
+h1 {
+    font-family: "Fredoka one", cursive;
+}
